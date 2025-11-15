@@ -94,24 +94,20 @@ cd SmartFinanceQA
 pip install -r requirements.txt
 Set your API keys (if needed):
 
-arduino
-Copy code
+
 export OPENAI_API_KEY="your_key_here"
 ▶️ Running the System
 Run the full pipeline:
 
-bash
-Copy code
+
 python main.py
 Run ingestion only:
 
-bash
-Copy code
+
 python ingestion.py
 Evaluate model quality:
 
-bash
-Copy code
+
 python NLP_Finetuned.py
 📊 Results (Summary)
 SmartFinanceQA produces:
