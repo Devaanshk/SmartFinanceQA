@@ -44,8 +44,7 @@ SmartFinanceQA solves this by:
 
 ## 🧠 High-Level Architecture
 
-mathematica
-Copy code
+
        ┌─────────────────┐
        │  User Question  │
        └────────┬────────┘
@@ -67,8 +66,7 @@ Copy code
        ┌────────▼────────┐
        │  Final Answer   │
        └─────────────────┘
-yaml
-Copy code
+
 
 ---
 
@@ -85,8 +83,6 @@ SmartFinanceQA/
 ├── requirements.txt # Dependencies
 └── README.md
 
-yaml
-Copy code
 
 ---
 
